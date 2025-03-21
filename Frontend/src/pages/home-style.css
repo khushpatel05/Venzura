@@ -1,0 +1,14 @@
+
+.hero-slider .slick-dots li button:before {
+    display: none;
+  }
+  
+  .hero-slider .slick-dots li {
+    margin: 0 4px;
+  }
+  
+  .hero-slider .slick-dots li.slick-active div {
+    background-color: white;
+  }
+  
+  
