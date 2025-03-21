@@ -170,6 +170,7 @@ const ClubBook = () => {
                           className="text-red-600 hover:text-red-800 transition-colors"
                           onClick={() => handleDelete(booking._id)}
                         >
+                          
                           <FaTrash />
                         </button>
                       </td>
